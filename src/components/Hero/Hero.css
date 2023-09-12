@@ -32,7 +32,7 @@
 }
 
 .the-best-ad>span{
-    
+    z-index: 2; 
 }
 
 .the-best-ad>div{
@@ -42,4 +42,5 @@
     height: 80%;
     left: 8px;
     border-radius: 3rem;
+    z-index: 1;
 }
