@@ -44,3 +44,12 @@
     border-radius: 3rem;
     z-index: 1;
 }
+
+.hero-text{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    text-transform: uppercase;
+    font-size: 4.5rem;
+    font-weight: bold;
+}
