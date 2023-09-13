@@ -26,5 +26,5 @@
   color: transparent;
   font-family: Arial, Helvetica, sans-serif;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-fill-color: white;
+  -webkit-text-stroke-color: white;
 }
