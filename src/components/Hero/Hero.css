@@ -78,3 +78,9 @@
    color: white;
    font-size: 2rem; 
 }
+
+.figures>div>span:nth-of-type(2){
+    color: var(--gray);
+    text-transform: uppercase;
+
+ }
