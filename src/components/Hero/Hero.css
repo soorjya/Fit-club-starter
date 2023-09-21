@@ -134,7 +134,7 @@
 color: var(--grey);
 }
 
-.heart-rate>span:nth-child(3){
+.heart-rate>span:nth-child(3){ 
     color: white;
     font-size: 1.5rem;
 }
@@ -144,4 +144,12 @@ color: var(--grey);
     top: 10rem;
     right: 8rem;
     width: 23rem;
+}
+
+.hero-image-back{
+    position: absolute;
+    top: 4rem;
+    right: 20rem;
+    z-index: -1;
+    width: 15rem;
 }
