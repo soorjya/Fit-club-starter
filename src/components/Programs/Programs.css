@@ -50,3 +50,13 @@
     display: flex;
     align-items: center;gap: 2rem;
 }
+
+.join-now>img{
+    width: 1rem;
+}
+
+.category:hover{
+    background-color: var(--planCard);
+    cursor: pointer;
+}
+
