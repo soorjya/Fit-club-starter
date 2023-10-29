@@ -120,5 +120,5 @@ const Hero = () => {
     </div>
   );
 };
-
+ // ended code...
 export default Hero;
