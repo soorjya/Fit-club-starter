@@ -1,4 +1,4 @@
-import React from "react";
+noimport React from "react";
 import Header from "../Header/Header";
 import "./Hero.css";
 import hero_image from "../../assets/hero_image.png";
@@ -120,5 +120,5 @@ const Hero = () => {
     </div>
   );
 };
- // ended code...
+ // ended   code.....
 export default Hero;
